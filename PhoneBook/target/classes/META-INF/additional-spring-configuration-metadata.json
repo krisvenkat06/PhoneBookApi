@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "datasource.phone-book-app.default-schema",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.phone-book-app.default-schema'"
+  },
+  {
+    "name": "datasource.phone-book-app.max-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.phone-book-app.max-pool-size'"
+  },
+  {
+    "name": "datasource.phone-book-app.max-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.phone-book-app.max-pool-size'"
+  },
+  {
+    "name": "datasource.phone-book-app.default-schema",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.phone-book-app.default-schema'"
+  }
+]}
